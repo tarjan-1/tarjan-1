@@ -38,6 +38,6 @@
   </a>
 </div>
 
-![Visitor Count](https://profile-counter.glitch.me/GauravPachbhai/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/tarjan-1/count.svg)
 
 ###
