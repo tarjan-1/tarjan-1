@@ -12,7 +12,7 @@
   🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
    </p>
 <p align="center">
-<a href="[https://linkedin.com/in/parulchaddha0904](https://www.linkedin.com/in/tarjan-bawankule/)" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="[https://www.linkedin.com/in/tarjan-bawankule/](https://www.linkedin.com/in/tarjan-bawankule/)" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 </p>
 
 
